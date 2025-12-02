@@ -1,11 +1,11 @@
 ## Experiences
 
-   | Period | WHAT |
+   | Period | Info |
   | ------------ | ------------- |
   | 2022.03 ~ Present| B.S. in Computer Science & Engineering, Chung-Ang University |
   | 2023.03 ~ 2024.01 | CAU COMP 37th – Web Development Club |
   | 2024.03 ~ 2025.01 | CAU COMP 38th President – Web Development Club |
-  | 2025.03 ~ 2026.01| LIKELION CAU 13th(FE) - Web&App Development Club |
+  | 2025.03 ~ 2026.01| LIKELION CAU 13th (FE) - Web&App Development Club |
 
 <br/>
 
