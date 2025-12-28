@@ -3,9 +3,10 @@
    | Period | Info |
   | ------------ | ------------- |
   | 2022.03 ~ Present| B.S. in Computer Science & Engineering, Chung-Ang University |
-  | 2023.03 ~ 2024.01 | CAU COMP 37th – Web Development Club |
-  | 2024.03 ~ 2025.01 | CAU COMP 38th President – Web Development Club |
-  | 2025.03 ~ 2026.01| LIKELION CAU 13th (FE) - Web&App Development Club |
+  | 2023.03 ~ 2024.01 | <img src="https://github.com/user-attachments/assets/39242e1a-1d12-479f-834a-c5d798e377e0" width="40" />  Member, CAU COMP Web Development Club (37th) |
+  | 2024.03 ~ 2025.01 | <img src="https://github.com/user-attachments/assets/39242e1a-1d12-479f-834a-c5d798e377e0" width="40" />  **President**, CAU COMP Web Development Club (38th) |
+  | 2025.02 ~ 2025.12| <img width="40" alt="likelion-logo" src="https://github.com/user-attachments/assets/a4fe68ea-aa7b-4957-8ba5-d491ccfb39f5" />  Front-end Member, [LIKELION CAU](https://cau-likelion.org/) Web & App Development Club(13th)|
+  | 2026.01 ~ Present| <img width="40" alt="likelion-logo" src="https://github.com/user-attachments/assets/a4fe68ea-aa7b-4957-8ba5-d491ccfb39f5" /> **Front-end Lead**, [LIKELION CAU](https://cau-likelion.org/) Web & App Development Club(14th)|
 
 <br/>
 
@@ -13,7 +14,7 @@
 | Period | Project | Description | Notes |
 | --- | --- | --- | --- |
 | 2025.11 ~ 2025.12 | [LikelionPostbox](https://github.com/LikeLion-CAU-Hackathon/Frontend) | 2025 중앙대학교 멋쟁이사자만을 위한 24일간의 기록 | 멋쟁이사자처럼 13기 중커톤 |
-| 2025.07 ~ 2025.09 | [Hueniverse](https://github.com/ChungangLions/lions-client) | 대학과 상권을 연결하는 AI 기반 제휴 설계 플랫폼 | 멋쟁이사자처럼 13기 해커톤 |동
+| 2025.07 ~ 2025.09 | [Hueniverse](https://github.com/ChungangLions/lions-client) | 대학과 상권을 연결하는 AI 기반 제휴 설계 플랫폼 | 멋쟁이사자처럼 13기 해커톤 |
 | 2024.09 ~ 2024.12 | [Storytune](https://github.com/24-CapstoneDesign-1/StoryTune-FE) | 동화를 만들고 친구와 함께 롤플레잉 하는 서비스 | 캡스톤 디자인(2) |
 
 <br/>
