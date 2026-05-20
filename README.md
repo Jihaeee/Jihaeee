@@ -18,6 +18,11 @@ I enjoy turning ideas into real services and collaborating with teams to solve r
 
 ## 🚀 Projects
 
+### [LUCAUS](https://github.com/LUCAUS-Likelion14th/FrontEnd)
+> **2026.05 | LIKELION CAU × 중앙대학교 축제 공식 웹사이트**
+- 공연 타임라인, 인기 부스 랭킹, 푸드트럭, 모바일 도장판, 분실물 조회를 제공하는 모바일 웹 서비스
+- **Stack**: Next.js 16 · React 19 · TypeScript · Tailwind CSS v4 · Zustand · React Query
+
 ### [LikelionPostbox](https://github.com/LikeLion-CAU-Hackathon/Frontend)
 > **2025.11 – 2025.12 | Likelion at CAU Hackathon Project**
 - 중앙대학교 멋쟁이사자처럼 부원들을 위한 24일간의 기록 및 공유 서비스 (중커톤)
