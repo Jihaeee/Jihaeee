@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Jihye
 
-**Frontend Developer** focused on building intuitive web experiences and meaningful products.  
-I enjoy turning ideas into real services and collaborating with teams to solve real-world problems.
+**Frontend Developer** passionate about creating intuitive and seamless user experiences.
+I focus on building products that are not only functional, but genuinely enjoyable and meaningful for users.
+
 
 <br/>
 
@@ -53,8 +54,9 @@ I enjoy turning ideas into real services and collaborating with teams to solve r
 
 ## 🌱 Interests
 
-- Building intuitive and user-friendly web interfaces  
-- Improving developer experience and maintainable frontend architecture  
+- Creating intuitive and user-centered web experiences
+- Designing interfaces that prioritize usability and accessibility
+- Building maintainable frontend architectures with a strong focus on user experience
 - Learning scalable frontend patterns and performance optimization
 
 <br/>
