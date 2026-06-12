@@ -20,7 +20,7 @@ I focus on building products that are not only functional, but genuinely enjoyab
 ## 🚀 Projects
 
 ### [GitStarter](https://github.com/capstone-26-01/frontend)
-**2026.04 - 2026.06** | Capstone Design**
+**2026.04 - 2026.06 | Capstone Design**
   - GitHub 저장소를 인터랙티브 그래프로 시각화하고, 이슈를 선택하면 시작 가이드를 제시해주는 웹 서비스
   - **Stack**: Next.js 16 · React 19 · TypeScript · Tailwind CSS v4 · React Flow · Dagre
 
