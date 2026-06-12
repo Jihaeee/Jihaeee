@@ -19,8 +19,13 @@ I focus on building products that are not only functional, but genuinely enjoyab
 
 ## 🚀 Projects
 
+### [GitStarter](https://github.com/capstone-26-01/frontend)
+**2026.04 - 2026.06** | Capstone Design**
+  - GitHub 저장소를 인터랙티브 그래프로 시각화하고, 이슈를 선택하면 시작 가이드를 제시해주는 웹 서비스
+  - **Stack**: Next.js 16 · React 19 · TypeScript · Tailwind CSS v4 · React Flow · Dagre
+
 ### [LUCAUS](https://github.com/LUCAUS-Likelion14th/FrontEnd)
-> **2026.05 | LIKELION CAU × 중앙대학교 축제 공식 웹사이트**
+> **2026.05 | LIKELION CAU × 중앙대학교 총 학생회**
 - 공연 타임라인, 인기 부스 랭킹, 푸드트럭, 모바일 도장판, 분실물 조회를 제공하는 모바일 웹 서비스
 - **Stack**: Next.js 16 · React 19 · TypeScript · Tailwind CSS v4 · Zustand · React Query
 
