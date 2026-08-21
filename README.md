@@ -15,13 +15,6 @@ I focus on building products that are not only functional, but genuinely enjoyab
 * **2023.03 – 2024.01** | Member, CAU COMP Web Development Club (37th)
 * **2022.03 – Present** | B.S. in Computer Science & Engineering, Chung-Ang University
 
-<br/>
-
-## 📊 GitHub Stats
-
-![Jihye's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jihaeee&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jihaeee&layout=compact&theme=transparent)
-
 
 <br/>
 
