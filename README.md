@@ -8,7 +8,7 @@ I focus on building products that are not only functional, but genuinely enjoyab
 
 ## 👩‍💻 Experiences
 
-* **2026.03 – Present** | Web Developer, [Depromeet](https://www.depromeet.com/) (18th)
+* **2026.03 – 2026.06** | Web Developer, [Depromeet](https://www.depromeet.com/) (18th)
 * **2026.01 – Present** | **Frontend Lead**, [LIKELION CAU](https://cau-likelion.org/) (14th)
 * **2025.02 – 2025.12** | Frontend Member, [LIKELION CAU](https://cau-likelion.org/) (13th)
 * **2024.03 – 2025.01** | **President**, CAU COMP Web Development Club (38th)
